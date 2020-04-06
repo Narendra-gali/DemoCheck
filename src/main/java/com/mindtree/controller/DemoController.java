@@ -8,6 +8,6 @@ public class DemoController {
 
 	@RequestMapping("/no")
 	public String home() {
-		return "Spring boot is workingkkk doneee  for trstinf!";
+		return "Spring boot is workingkkk doneee  for testing!";
 	}
 }
